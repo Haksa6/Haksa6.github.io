@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.65eed144.js",
+    "main.js": "/static/js/main.072547d3.js",
     "static/media/Battleship.gif": "/static/media/Battleship.3412e41e667e747d99f6.gif",
     "static/media/Chatapp.gif": "/static/media/Chatapp.b68e97928d451450045e.gif",
     "static/media/chakraLogo.png": "/static/media/chakraLogo.ff0632e1b3f51c896a7d.png",
@@ -9,9 +9,9 @@
     "static/media/mongodbLogo.png": "/static/media/mongodbLogo.41ae1969f341d30268a1.png",
     "static/media/reactLogo.png": "/static/media/reactLogo.cb15bfce2a9004ce61c5.png",
     "index.html": "/index.html",
-    "main.65eed144.js.map": "/static/js/main.65eed144.js.map"
+    "main.072547d3.js.map": "/static/js/main.072547d3.js.map"
   },
   "entrypoints": [
-    "static/js/main.65eed144.js"
+    "static/js/main.072547d3.js"
   ]
 }
